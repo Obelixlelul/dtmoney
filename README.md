@@ -1,21 +1,26 @@
-![dtmoney](https://user-images.githubusercontent.com/23657514/156776292-4e8b252a-5bc6-458f-a351-99505fc818fb.png)
+# dt money
+Project of a finance control build in TypeScript + ReactJS.
 
-# dtmoney
+## Explanation
+*dt money* is an SPA developed on [RocketSeat Bootcamp](https://www.rocketseat.com.br/) with TypeScript and React to control your finances. 
 
-dtmoney is a financial control application, where it is possible to register incomes and it's build with React as a project of [RocketSeat](https://www.rocketseat.com.br/) Bootcamp.
+![dt-money](https://user-images.githubusercontent.com/23657514/160163226-db5ba31c-ab1f-4c23-8040-b24217e4a8d4.png)
 
-## :computer: Explanation
-You will be able to add or delete your personal earnings and expenses, the system will inform each one individually and also your final balance
-
-## :unlock: Tech
-- HTML
-- CSS
-- JavaScript
+## Built With
+- TypeScript
 - React
-
-## :exploding_head: What i learned with this project
-- React Hooks
-- useState, useEffect, useContext
-- react-modal
 - axios
-- styled-components
+- miragejs
+- polished
+- react-modal
+- Html + CSS
+
+### RocketSeat Fullstack course
+[RocketSeat Bootcamp](https://www.rocketseat.com.br/)
+
+## What i learned
+- useState
+- useEffect
+- useContext
+- create a fake api with miragejs
+- type with TypeScript
